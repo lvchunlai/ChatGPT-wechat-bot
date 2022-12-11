@@ -1,6 +1,6 @@
 export default {
   // 填入你的session token
-  chatGPTSessionToken: '',
+  chatGPTSessionToken: 'dca997bf0e697820eb14b088681b0af4c845f9c1ddcc70e5a4fe4d41f0b5b7a8',
   // 设置获取消息的重试次数
   retryTimes: 3,
   // 在群组中设置唤醒微信机器人的关键词
